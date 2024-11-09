@@ -21,7 +21,6 @@ This project collects, cleans, and analyzes data from a Twitter page using the T
 
 ### **File Descriptions**
 - **wrangle_project.ipynb**: The main Jupyter Notebook, containing all steps for data collection, cleaning, analysis, and visualization.
-- **README.md**: Project documentation.
 
 ### **Data Collection**
 - **Process**: Uses Tweepy to authenticate with the Twitter API.
